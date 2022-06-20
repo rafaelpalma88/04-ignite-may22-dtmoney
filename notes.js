@@ -5,7 +5,7 @@ yarn create react-app dtmoney --template typescript
 
 instalar o styled components: yarn add styled-components
 
-
+instalar no seu vscode a extensão do styled components: vscode-styled-components
 
 
 
