@@ -17,6 +17,7 @@ vamos usar uma biblioteca para modal, react-modal. ela tem varias funcionalidade
 
 yarn add react-modal
 
+yarn add polished
 
 
 
